@@ -25,4 +25,4 @@ There is a splash banner with a tagline “Be in the know” with a logo.
 
 <img width="1276" alt="c10632be0d48a77170f2" src="https://github.com/Realyoung1/ProjectLandingPage/assets/122838973/3747a91e-ba0c-4055-8e11-596c01209b09">
 
-
+As you scroll down, there are three features that are briefly explained, and a gif to help visualize the feature they are referencing. After reading the page, the webpage visitor learns that the Google Search application is meant to provide information, including current events relevant to a user’s favorite topics or location and in-depth knowledge to be explored. This page does not have a text field to take in a search term!
